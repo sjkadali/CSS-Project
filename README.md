@@ -1,2 +1,2 @@
 # CSS-Project
-A Project created using CSS and HTML.
+This project is created using CSS and HTML.
